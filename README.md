@@ -13,13 +13,13 @@
  Todos os depósitos devem ser armazenados em uma vaiavel e exibidos na operação extrato.
 
 
-## Operção de saque
+## Operação de saque
  O sistema deve permitir realizar 3 saques diários com limite máximo de R$ 500,00 por saque.
  caso o usúario não tenha saldo em conta, o sistema deve exibir uma mensagem informando 
  que não sera possivel sacar o dinheiro por falta de saldo. 
  Todos os saques devem ser armazenados em uma variável e exibidos na operação extrato.
  
- # Operção de extrato
+ # Operação de extrato
  Essa operação deve listar todos os depósitos e saques realizados na conta. 
  No fim da listagem deve ser exibido o saldo atual da conta.
  
